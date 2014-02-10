@@ -1,0 +1,25 @@
+#!/usr/bin/env python
+message = """
+   ___          _          __            _               
+  / __\___   __| | ___    /__\ _____   _(_) _____      __
+ / /  / _ \ / _` |/ _ \  / \/// _ \ \ / / |/ _ \ \ /\ / /
+/ /___ (_) | (_| |  __/ / _  \  __/\ V /| |  __/\ V  V / 
+\____/\___/ \__,_|\___| \/ \_/\___| \_/ |_|\___| \_/\_/  
+
+
+
+
+                                                         
+
+Emperor Animations and Unit Testing in JavaScript
+
+Yoshiki Vazquez Baeza
+
+
+
+
+
+
+
+"""
+print message
